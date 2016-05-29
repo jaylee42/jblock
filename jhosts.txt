@@ -1,5 +1,5 @@
 #
-#v135
+#v136
 #
 127.0.0.1                    warnerbros.112.207.net
 127.0.0.1                          youtube.2cnt.net
@@ -362,7 +362,32 @@
 127.0.0.1                       cdn3.optimizely.com
 127.0.0.1                        log.optimizely.com
 127.0.0.1                              outbrain.com
+127.0.0.1                       alldcs.outbrain.com
+127.0.0.1              alldcs-distinct.outbrain.com
+127.0.0.1                     chi-only.outbrain.com
+127.0.0.1                     chi2only.outbrain.com
+127.0.0.1                 amplifypixel.outbrain.com
+127.0.0.1                    editorial.outbrain.com
+127.0.0.1                          hpr.outbrain.com
+127.0.0.1                       images.outbrain.com
+127.0.0.1                   images-geo.outbrain.com
+127.0.0.1                       la-chi.outbrain.com
 127.0.0.1                          log.outbrain.com
+127.0.0.1                      ny-only.outbrain.com
+127.0.0.1                       nychi2.outbrain.com
+127.0.0.1                          odb.outbrain.com
+127.0.0.1                   odb-chidc2.outbrain.com
+127.0.0.1                         paid.outbrain.com
+127.0.0.1                      sandbox.outbrain.com
+127.0.0.1                   staffpicks.outbrain.com
+127.0.0.1                      storage.outbrain.com
+127.0.0.1                      traffic.outbrain.com
+127.0.0.1                            u.outbrain.com
+127.0.0.1                          vra.outbrain.com
+127.0.0.1                          vrp.outbrain.com
+127.0.0.1                          vrt.outbrain.com
+127.0.0.1              vrt-chidc2-only.outbrain.com
+127.0.0.1                      widgets.outbrain.com
 127.0.0.1                        static.parsely.com
 127.0.0.1                          pixanalytics.com
 127.0.0.1                   falcon.pixanalytics.com
@@ -388,6 +413,13 @@
 127.0.0.1                          pix03.revsci.net
 127.0.0.1                          pix04.revsci.net
 127.0.0.1                      pq-direct.revsci.net
+127.0.0.1                                 rlcdn.com
+127.0.0.1                              ei.rlcdn.com
+127.0.0.1                          idsync.rlcdn.com
+127.0.0.1                              qa.rlcdn.com
+127.0.0.1                              rc.rlcdn.com
+127.0.0.1                              rd.rlcdn.com
+127.0.0.1                             www.rlcdn.com
 127.0.0.1                        match.rtbidder.net
 127.0.0.1                        rubiconproject.com
 127.0.0.1                    ads.rubiconproject.com
@@ -425,7 +457,23 @@
 127.0.0.1                     apis.sharethrough.com
 127.0.0.1                   assets.sharethrough.com
 127.0.0.1                   native.sharethrough.com
+127.0.0.1                           simplereach.com
+127.0.0.1                        cc.simplereach.com
+127.0.0.1                      edge.simplereach.com
+127.0.0.1                       www.simplereach.com
 127.0.0.1                              um.simpli.fi
+127.0.0.1                              sitestat.com
+127.0.0.1                           be.sitestat.com
+127.0.0.1                           de.sitestat.com
+127.0.0.1                           es.sitestat.com
+127.0.0.1                           fi.sitestat.com
+127.0.0.1                           fr.sitestat.com
+127.0.0.1                          int.sitestat.com
+127.0.0.1                       nbasic.sitestat.com
+127.0.0.1                           se.sitestat.com
+127.0.0.1                           uk.sitestat.com
+127.0.0.1                           us.sitestat.com
+127.0.0.1                          www.sitestat.com
 127.0.0.1                           statcounter.com
 127.0.0.1                         c.statcounter.com
 127.0.0.1                        c1.statcounter.com
@@ -531,6 +579,10 @@
 127.0.0.1                             ads.yahoo.com
 127.0.0.1                     e.analytics.yahoo.com
 127.0.0.1                     csc.beap.bc.yahoo.com
+127.0.0.1                          gemini.yahoo.com
+127.0.0.1                     beap.gemini.yahoo.com
+127.0.0.1                 ir2.beap.gemini.yahoo.com
+127.0.0.1                        n.gemini.yahoo.com
 127.0.0.1                 analytics.query.yahoo.com
 127.0.0.1                       ad.yieldmanager.com
 127.0.0.1                     ag.yieldoptimizer.com
