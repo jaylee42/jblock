@@ -1,5 +1,5 @@
 #
-#v136
+#v137
 #
 127.0.0.1                    warnerbros.112.207.net
 127.0.0.1                          youtube.2cnt.net
@@ -13,8 +13,6 @@
 127.0.0.1                               s1.2mdn.net
 127.0.0.1                           static.2mdn.net
 127.0.0.1                    brightcove.112.2o7.net
-127.0.0.1                    warnerbros.112.2o7.net
-127.0.0.1                 warnerbrosads.112.2o7.net
 127.0.0.1                           cbs.112.2o7.net
 127.0.0.1                        cbscom.112.2o7.net
 127.0.0.1               cbsdigitalmedia.112.2o7.net
@@ -24,6 +22,9 @@
 127.0.0.1                       cbsspln.112.2o7.net
 127.0.0.1     cbstelevisiondistribution.112.2o7.net
 127.0.0.1                   facebookinc.122.2o7.net
+127.0.0.1                       timeinc.122.2o7.net
+127.0.0.1                    warnerbros.112.2o7.net
+127.0.0.1                 warnerbrosads.112.2o7.net
 127.0.0.1                          api.ad-locus.com
 127.0.0.1                                ad-x.co.uk
 127.0.0.1                         ads.ad2iction.com
@@ -89,23 +90,54 @@
 127.0.0.1                              ym.adnxs.com
 127.0.0.1                             www.adnxs.com
 127.0.0.1                            ytw.adsbro.com
+127.0.0.1                           adsymptotic.com
 127.0.0.1              ads-east-aws.adsymptotic.com
 127.0.0.1             ads-east-colo.adsymptotic.com
 127.0.0.1             ads-west-colo.adsymptotic.com
+127.0.0.1                       api.adsymptotic.com
 127.0.0.1                         c.adsymptotic.com
 127.0.0.1                     ceast.adsymptotic.com
+127.0.0.1                         m.adsymptotic.com
 127.0.0.1                        mf.adsymptotic.com
+127.0.0.1                         p.adsymptotic.com
+127.0.0.1                       www.adsymptotic.com
+127.0.0.1                       amazon-adsystem.com
 127.0.0.1                   aax.amazon-adsystem.com
+127.0.0.1                aax-eu.amazon-adsystem.com
+127.0.0.1            aax-eu-rtb.amazon-adsystem.com
+127.0.0.1                aax-fe.amazon-adsystem.com
+127.0.0.1            aax-fe-sin.amazon-adsystem.com
 127.0.0.1           aax-us-east.amazon-adsystem.com
 127.0.0.1       aax-us-east-rtb.amazon-adsystem.com
+127.0.0.1            aax-us-pdx.amazon-adsystem.com
 127.0.0.1           aax-us-west.amazon-adsystem.com
 127.0.0.1                     c.amazon-adsystem.com
+127.0.0.1                   dra.amazon-adsystem.com
+127.0.0.1                fls-eu.amazon-adsystem.com
+127.0.0.1                fls-fe.amazon-adsystem.com
+127.0.0.1                fls-na.amazon-adsystem.com
+127.0.0.1                 ir-de.amazon-adsystem.com
+127.0.0.1                 ir-jp.amazon-adsystem.com
+127.0.0.1                 ir-na.amazon-adsystem.com
+127.0.0.1                 ir-uk.amazon-adsystem.com
+127.0.0.1                 ps-eu.amazon-adsystem.com
+127.0.0.1                 ps-us.amazon-adsystem.com
+127.0.0.1                rcm-eu.amazon-adsystem.com
+127.0.0.1                rcm-fe.amazon-adsystem.com
+127.0.0.1                rcm-na.amazon-adsystem.com
 127.0.0.1                     s.amazon-adsystem.com
+127.0.0.1                wms-eu.amazon-adsystem.com
+127.0.0.1                wms-fe.amazon-adsystem.com
+127.0.0.1                wms-na.amazon-adsystem.com
+127.0.0.1                 ws-eu.amazon-adsystem.com
+127.0.0.1                 ws-na.amazon-adsystem.com
+127.0.0.1                  z-na.amazon-adsystem.com
 127.0.0.1                              wa.and.co.uk
 127.0.0.1                         sdk.appsflyer.com
 127.0.0.1                       track.appsflyer.com
 127.0.0.1                          mobads.baidu.com
 127.0.0.1                     mobads-logs.baidu.com
+127.0.0.1                           stats.bbc.co.uk
 127.0.0.1                                betrad.com
 127.0.0.1                              c.betrad.com
 127.0.0.1                            cdn.betrad.com
@@ -184,6 +216,7 @@
 127.0.0.1            securepubads.g.doubleclick.net
 127.0.0.1                   stats.g.doubleclick.net
 127.0.0.1                    static.doubleclick.net
+127.0.0.1                              cm.dpclk.com
 127.0.0.1                         ads.economist.com
 127.0.0.1                   adserver1.economist.com
 127.0.0.1                      sstats.economist.com
@@ -346,6 +379,7 @@
 127.0.0.1                               r.nexac.com
 127.0.0.1                           ads.nytimes.com
 127.0.0.1                 mtvnetworks.tt.omtrdc.net
+127.0.0.1                  timeinc.d2.sc.omtrdc.net
 127.0.0.1                              ac.openx.com
 127.0.0.1                            docs.openx.com
 127.0.0.1                              go.openx.com
@@ -545,6 +579,8 @@
 127.0.0.1                      agent.tamedia.com.tw
 127.0.0.1                           pixel.tapad.com
 127.0.0.1                        a.thoughtleadr.com
+127.0.0.1                      adremote.timeinc.net
+127.0.0.1                         tiads.timeinc.net
 127.0.0.1                           tags.tiqcdn.com
 127.0.0.1                        choices.truste.com
 127.0.0.1                        consent.truste.com
@@ -574,6 +610,8 @@
 127.0.0.1                            img.vserv.mobi
 127.0.0.1           videotracker.washingtonpost.com
 127.0.0.1                        phone.waystorm.com
+127.0.0.1                              pixel.wp.com
+127.0.0.1                              stats.wp.com
 127.0.0.1                       rumds.wpdigital.net
 127.0.0.1                   targeting.wpdigital.net
 127.0.0.1                             ads.yahoo.com
@@ -590,6 +628,13 @@
 127.0.0.1                     rg.yieldoptimizer.com
 127.0.0.1                    tag.yieldoptimizer.com
 127.0.0.1                           ads.youtube.com
+127.0.0.1                               zergnet.com
+127.0.0.1                          img1.zergnet.com
+127.0.0.1                          img2.zergnet.com
+127.0.0.1                          img3.zergnet.com
+127.0.0.1                          img4.zergnet.com
+127.0.0.1                          img5.zergnet.com
+127.0.0.1                           www.zergnet.com
 127.0.0.1                     segment-data.zqtk.net
 127.0.0.1                                t.zqtk.net
 
