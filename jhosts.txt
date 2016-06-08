@@ -1,5 +1,5 @@
 #
-#v138
+#v139
 #
 127.0.0.1                                     warnerbros.112.207.net
 127.0.0.1                                           youtube.2cnt.net
@@ -160,10 +160,40 @@
 127.0.0.1                                                om.cbsi.com
 127.0.0.1                                           mads.cbsnews.com
 127.0.0.1                                            ocp.cbsnews.com
-127.0.0.1                                     chinacache.cedexis.com
+127.0.0.1                                                cedexis.com
+127.0.0.1                      aws-ap-southeast-2a.bench.cedexis.com
+127.0.0.1                               br.ecritel.bench.cedexis.com
+127.0.0.1                               cn.ecritel.bench.cedexis.com
+127.0.0.1                                   fastly.bench.cedexis.com
 127.0.0.1                                  fastly2.bench.cedexis.com
+127.0.0.1                           lon.telefonica.bench.cedexis.com
+127.0.0.1                                 rack-dfw.bench.cedexis.com
+127.0.0.1                                 rack-hkg.bench.cedexis.com
+127.0.0.1                                 rack-iad.bench.cedexis.com
+127.0.0.1                              trp.numergy.bench.cedexis.com
+127.0.0.1                                            cdx.cedexis.com
+127.0.0.1                                     chinacache.cedexis.com
+127.0.0.1                                   clcbench.chi.cedexis.com
+127.0.0.1                                   clcbench.slc.cedexis.com
+127.0.0.1                                     cloudfront.cedexis.com
+127.0.0.1                              cloudfront-dsa-eu.cedexis.com
+127.0.0.1                                         joyent.cedexis.com
+127.0.0.1                                         level3.cedexis.com
+127.0.0.1                                      limelight.cedexis.com
+127.0.0.1                                      llnwop-eu.cedexis.com
+127.0.0.1                                         netdna.cedexis.com
+127.0.0.1                                         probes.cedexis.com
 127.0.0.1                                          radar.cedexis.com
+127.0.0.1                                    radartumblr.cedexis.com
+127.0.0.1                                        reports.cedexis.com
 127.0.0.1                                            rpt.cedexis.com
+127.0.0.1                                   transact-can.cedexis.com
+127.0.0.1                                   tumblrprobes.cedexis.com
+127.0.0.1                                  tumblrreports.cedexis.com
+127.0.0.1                                       uslbtest.cedexis.com
+127.0.0.1                                  ams2.voxcloud.cedexis.com
+127.0.0.1                                  dal2.voxcloud.cedexis.com
+127.0.0.1                                            www.cedexis.com
 127.0.0.1      i1-an-2-0-1-18441-1882971360-i.init.cedexis-radar.net
 127.0.0.1      i1-j1-18-7-1-13335-423715794-i.init.cedexis-radar.net
 127.0.0.1     i1-j1-18-7-1-13335-2395654547-i.init.cedexis-radar.net
