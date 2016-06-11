@@ -1,5 +1,5 @@
 /*
-#v141
+#v142
 */
 function FindProxyForURL ( url, host ) {
     url = url.toLowerCase();
@@ -263,7 +263,7 @@ var jblockHOST = [
                                                                                /s\.cpx\.to$/,
                                                                       /e\.crashlytics\.com$/,
                                                                /settings\.crashlytics\.com$/,
-                                                                             /crazyegg.com$/,
+                                                                            /crazyegg\.com$/,
                                                                        /new\.crazyegg\.com$/,
                                                                     /script\.crazyegg\.com$/,
                                                                        /www\.crazyegg\.com$/,
