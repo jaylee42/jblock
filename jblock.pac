@@ -1,5 +1,5 @@
 /*
-#v142
+#v143
 */
 function FindProxyForURL ( url, host ) {
     url = url.toLowerCase();
@@ -225,7 +225,7 @@ var jblockHOST = [
                                                                    /uslbtest\.cedexis\.com$/,
                                                              /ams2\.voxcloud\.cedexis\.com$/,
                                                              /dal2\.voxcloud\.cedexis\.com$/,
-                                                                        w/ww\.cedexis\.com$/,
+                                                                        /www\.cedexis\.com$/,
                                  /i1-an-2-0-1-18441-1882971360-i\.init\.cedexis-radar\.net$/,
                                  /i1-j1-18-7-1-13335-423715794-i\.init\.cedexis-radar\.net$/,
                                 /i1-j1-18-7-1-13335-2395654547-i\.init\.cedexis-radar\.net$/,
@@ -982,6 +982,6 @@ var jblockHOST = [
 ]
 
 var jblockURL = [
-   /http:\/\/attach\.mobile01\.com\/image\/mod_ad\/.*/,
-  /http:\/\/attach2\.mobile01\.com\/image\/mod_ad\/.*/,
+                                         /http:\/\/attach\.mobile01\.com\/image\/mod_ad\/.*/,
+                                        /http:\/\/attach2\.mobile01\.com\/image\/mod_ad\/.*/,
 ]
