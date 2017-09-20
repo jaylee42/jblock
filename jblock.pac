@@ -1,5 +1,5 @@
 /*
-#v143
+#v144
 */
 function FindProxyForURL ( url, host ) {
     url = url.toLowerCase();
@@ -938,18 +938,18 @@ var jblockHOST = [
                                                                       /serve\.uberads\.com$/,
                                                                          /alog\.umeng\.com$/,
                                                                         /log\.umtrack\.com$/,
-                                                                     /botd\.wordpress\.com$/,
-                                                                    /botd2\.wordpress\.com$/,
-                                                                    /stats\.wordpress\.com$/,
-                                                                 /s\.stats\.wordpress\.com$/,
-                                                                /ssl-stats\.wordpress\.com$/,
-                                                                 /ads-by\.yieldselect\.com$/,
+                                                                     /vawpro\.vm5apis\.com$/,
                                                                             /m\.vpadn\.com$/,
                                                                              /m\.vpon\.com$/,
                                                                   /tw\.ad\.adon\.vpon\.com$/,
                                                                        /cn\.api\.vpon\.com$/,
                                                                        /tw\.api\.vpon\.com$/,
                                                                          /img\.vserv\.mobi$/,
+                                                                     /botd\.wordpress\.com$/,
+                                                                    /botd2\.wordpress\.com$/,
+                                                                    /stats\.wordpress\.com$/,
+                                                                 /s\.stats\.wordpress\.com$/,
+                                                                /ssl-stats\.wordpress\.com$/,
                                                         /videotracker\.washingtonpost\.com$/,
                                                                      /phone\.waystorm\.com$/,
                                                                            /pixel\.wp\.com$/,
@@ -969,6 +969,7 @@ var jblockHOST = [
                                                                 /gtag\.yieldoptimizer\.com$/,
                                                                   /rg\.yieldoptimizer\.com$/,
                                                                  /tag\.yieldoptimizer\.com$/,
+                                                                 /ads-by\.yieldselect\.com$/,
                                                                         /ads\.youtube\.com$/,
                                                                              /zergnet\.com$/,
                                                                        /img1\.zergnet\.com$/,
