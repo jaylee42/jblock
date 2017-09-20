@@ -1,5 +1,5 @@
 #
-#v144
+#v145
 #
 #
 #
@@ -945,13 +945,13 @@
 127.0.0.1                                                                 cn.api.vpon.com
 127.0.0.1                                                                 tw.api.vpon.com
 127.0.0.1                                                                  img.vserv.mobi
+127.0.0.1                                                 videotracker.washingtonpost.com
+127.0.0.1                                                              phone.waystorm.com
 127.0.0.1                                                              botd.wordpress.com
 127.0.0.1                                                             botd2.wordpress.com
 127.0.0.1                                                             stats.wordpress.com
 127.0.0.1                                                           s.stats.wordpress.com
 127.0.0.1                                                         ssl-stats.wordpress.com
-127.0.0.1                                                 videotracker.washingtonpost.com
-127.0.0.1                                                              phone.waystorm.com
 127.0.0.1                                                                    pixel.wp.com
 127.0.0.1                                                                    stats.wp.com
 127.0.0.1                                                             rumds.wpdigital.net
