@@ -1,5 +1,5 @@
 /*
-#v144
+#v145
 */
 function FindProxyForURL ( url, host ) {
     url = url.toLowerCase();
@@ -945,13 +945,13 @@ var jblockHOST = [
                                                                        /cn\.api\.vpon\.com$/,
                                                                        /tw\.api\.vpon\.com$/,
                                                                          /img\.vserv\.mobi$/,
+                                                        /videotracker\.washingtonpost\.com$/,
+                                                                     /phone\.waystorm\.com$/,
                                                                      /botd\.wordpress\.com$/,
                                                                     /botd2\.wordpress\.com$/,
                                                                     /stats\.wordpress\.com$/,
                                                                  /s\.stats\.wordpress\.com$/,
                                                                 /ssl-stats\.wordpress\.com$/,
-                                                        /videotracker\.washingtonpost\.com$/,
-                                                                     /phone\.waystorm\.com$/,
                                                                            /pixel\.wp\.com$/,
                                                                            /stats\.wp\.com$/,
                                                                     /rumds\.wpdigital\.net$/,
